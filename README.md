@@ -1,4 +1,4 @@
-# getting-started-with-simulink-for-spc
+# "Getting Started with Simulink for SPC" example files
 Example Simulink models for the solar sunny vs cloudy example
 
 Explore the models created in the "Getting Started with Simulink for SPC" video.
